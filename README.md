@@ -1,4 +1,4 @@
-<h1 align="center">Fitness UI</h1>
+<h1 align="center">Flutter Fitness UI</h1>
 
 ## Screens
 <p align="center">
